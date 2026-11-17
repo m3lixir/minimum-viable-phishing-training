@@ -8,7 +8,7 @@ The training focuses on three actions:
 2. **Verify** through a trusted, independent channel.
 3. **Report** suspicious messages and possible mistakes quickly.
 
-This kit is part of **The Minimum Viable Phishing Program**. Its companion project, [Minimum Viable Phishing Campaign](https://github.com/m3lixir/minimum-viable-phishing-campaign), demonstrates campaign planning and reporting metrics using synthetic data.
+This kit is part of [The Minimum Viable Phishing Program](https://melisasavich.com/blog/2026/the-minimum-viable-phishing-program). Its companion project, [Minimum Viable Phishing Campaign](https://github.com/m3lixir/minimum-viable-phishing-campaign), demonstrates campaign planning and reporting metrics using synthetic data.
 
 ## Contents
 
