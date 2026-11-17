@@ -1,0 +1,4 @@
+employee_id,training_date,training_version,status,notes
+synthetic-001,2026-01-15,1.0,complete,Example only
+synthetic-002,2026-01-15,1.0,complete,Example only
+synthetic-003,2026-01-15,1.0,not_started,Example only
